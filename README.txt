@@ -1,1 +1,0 @@
-This is a test of using fossil as an SCM.
