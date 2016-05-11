@@ -1,0 +1,4 @@
+Options:
+-f     specify file to be used to read replacement strings from
+-r     specify replacement strings
+-s     specify the main trace file
